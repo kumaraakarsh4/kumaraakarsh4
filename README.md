@@ -51,11 +51,11 @@ I have hands-on experience with the following technologies:
 
 ## ⚡ Dynamic Skill Visualization
 <p align="center">
-    <a href="https://github.com/YOUR-GITHUB-USERNAME">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="Aakarsh's GitHub Stats" />
+    <a href="https://github.com/kumaraakarsh4">
+        <img src="https://github-readme-stats.vercel.app/api?username=kumaraakarsh4&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="Aakarsh's GitHub Stats" />
     </a>
-    <a href="https://github.com/YOUR-GITHUB-USERNAME">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
+    <a href="https://github.com/kumaraakarsh4">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaraakarsh4&layout=compact&theme=dracula" alt="Top Languages" />
     </a>
 </p>
 
