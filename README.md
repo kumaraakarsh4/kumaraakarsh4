@@ -1,53 +1,50 @@
-
-
 # 👋 Hello there! I'm Aakarsh Kumar
 
 ### A Full Stack Developer and Technology Enthusiast 🚀
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-I specialize in building robust and scalable applications using modern technologies across the entire stack.
+I specialize in building **robust** and **scalable** applications using modern technologies across the entire stack.
 
 ---
 
-- 🔭 I’m currently working on **React Dynamic Website**
+* 🔭 I’m currently working on **React Dynamic Website**
+* 🌱 I’m currently learning **Reactjs**
+* 📫 How to reach me **kumaraakarsh@gmail.com**
+* ⚡ Fun fact **I am Funny**
 
-- 🌱 I’m currently learning **Reactjs**
+---
 
-- 📫 How to reach me **kumaraakarsh@gmail.com**
+## 🛠️ My Full Stack Technology Toolkit 
 
-- ⚡ Fun fact **I am Funny**
-
-  
-
-
-
-## 🛠️ My Full Stack Technology Toolkit
-
-I have hands-on experience with the following technologies:
-
+I have hands-on experience with the following technologies, displayed here for maximum visual impact:
 
 ### ⚙️ Backend & Frameworks
-| Language | Framework |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/> |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/> |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> |
+<p align="center">
+    <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+    <a href="https://spring.io/projects/spring-boot/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
+    <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+</p>
+
 
 ### 🌐 Frontend & UI/UX
-| Library | Core |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> |
-
+<p align="center">
+    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS"/></a>
+<a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-round&logo=framer&logoColor=white" alt="Framer Motion Badge"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+    <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
+</p>
 ### 🗄️ Database & Version Control
-| Database | Version Control |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> |
-| | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> |
+<p align="center">
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+    <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+</p>
 
+---
 
 ## ⚡ Dynamic Skill Visualization
 <p align="center">
@@ -57,12 +54,13 @@ I have hands-on experience with the following technologies:
     <a href="https://github.com/kumaraakarsh4">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaraakarsh4&layout=compact&theme=dracula" alt="Top Languages" />
     </a>
+    <a href="https://github.com/kumaraakarsh4">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=kumaraakarsh4&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </a>
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kumaraakarsh4" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-<a href="https://www.linkedin.com/in/aakarsh-kumar-612760356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-
-
+<a href="https://www.linkedin.com/in/aakarsh-kumar-612760356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aakarsh Kumar LinkedIn" height="30" width="40" /></a>
+</p>
