@@ -65,19 +65,4 @@ I have hands-on experience with the following technologies:
 <a href="https://github.com/kumaraakarsh4" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 <a href="https://www.linkedin.com/in/aakarsh-kumar-612760356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
----
 
-## 💡 Get In Touch
-
-| Platform | Link |
-| :--- | :--- |
-| **GitHub Profile** | [Aakarsh Kumar on GitHub](https://github.com/kumaraakarsh4) |
-| **E-mail** | [kumaraakarsh4@gmail.com] |
-
-<p align="left"> 
-    <a href="https://github.com/kumaraakarsh4">
-        <img src="https://komarev.com/ghpvc/?username=kumaraakarsh4&label=Profile%20views&color=0e75b6&style=flat" alt="Aakarsh Kumar profile views" />
-    </a> 
-</p>
-
----
