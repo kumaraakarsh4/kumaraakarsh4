@@ -8,7 +8,7 @@ I specialize in building **robust** and **scalable** applications using modern t
 
 ---
 
-* 🔭 I’m currently working on **React Admin Dashboard**
+* 🔭 I’m currently working on **Building cricket Score  Live Website**
 * 🌱 I’m currently learning **Reactjs**
 * 📫 How to reach me **kumaraakarsh@gmail.com**
 * ⚡ Fun fact **I am Funny**
